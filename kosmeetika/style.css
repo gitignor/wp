@@ -1,0 +1,20 @@
+/*
+Theme Name: Ideaal Kosmeetika Theme
+Description: Ideaal Kosmeetika Theme
+Author: Starkup
+Template: flatsome
+Version: 3.0
+*/
+
+/*************** ADD CUSTOM CSS HERE.   ***************/
+
+/* Negative space start */
+table.variations td.label, table.variations td.value {display:none;}
+a.reset_variations {display:block;}
+/* Negative space end */
+
+@media only screen and (max-width: 48em) {
+/*************** ADD MOBILE ONLY CSS HERE  ***************/
+
+
+}
